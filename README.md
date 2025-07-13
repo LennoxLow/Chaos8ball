@@ -47,7 +47,7 @@ This is not a tutorial. It's more of a vibes-based guide through a hardware hack
 3. Attach the shock sensor to a digital input pin (configured in code).
 4. Connect power via battery + TP4056.
 5. Print the shell, glue things irresponsibly.
-6. Shake it. Accept your fate.
+6. Shake it.
 
 ---
 
