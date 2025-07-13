@@ -36,7 +36,7 @@ This is not a tutorial, more of a vibes-based guide for a ball made for laughs.
 | TP4056 Charging Module | For charging the vape cell |
 | 3.7V Vape Battery | Please don’t steal these from the bin like I did |
 | Boost Converter | To bump battery voltage to 5V if needed |
-| Power Switch | Optional, but helps keep the demons contained |
+| Power Switch | Technically I didn't include one.... maybe you should |
 | 3D Printed Shell | Modeled in FreeCAD (STLs included) |
 
 ---
@@ -68,6 +68,7 @@ Shake it. It should display a random line from the list. If not:
 - Make sure the OLED is wired properly.
 - Confirm your shock sensor triggers HIGH/LOW correctly.
 - Recheck your I2C address if using a different display.
+- Edit configuration headers (U8g2lib.h or U8x8lib.h) to match your specific display.
 
 ---
 
@@ -77,7 +78,9 @@ Here’s some cursed potential for v2 if you are up to the task:
 
 - **OTA updates** (so you can remotely change the prophecies, currently it is sealed shut)
 - **Sound module** to make it growl or whisper weird stuff
+- **Vibration module** to give it a low rumble when generating prophecies
 - **RGB LED glow** for a dramatic effect
+
 
 ---
 
@@ -90,7 +93,7 @@ This project appeared in my YouTube video:
 
 ## 📮 Contribute Your Own Chaos
 
-Have better cursed advice? Suggest them by opening an Issue or editing the hardcoded list in the sketch file.  
+Have better cursed advice? Edit the hardcoded list in the sketch file!  
 If you build one, I would love to see it!
 
 ---
