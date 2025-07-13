@@ -4,6 +4,13 @@ Built using an ESP32, vape batteries, and too much hot glue.
 
 ---
 
+## 🎬 As Seen In
+
+This project appeared in my YouTube video:  
+👉 [I Built a Cursed Magic 8 Ball That Gives Bad Advice](https://www.youtube.com/watch?v=-yIj9mfP2Uo)
+
+---
+
 ## ⚠️ What Is This?
 
 This is a DIY project for building your own **Chaos 8 Ball** — a chaotic prophecy orb that responds to shakes with awful advice like:
@@ -80,14 +87,6 @@ Here’s some cursed potential for v2 if you are up to the task:
 - **Sound module** to make it growl or whisper weird stuff
 - **Vibration module** to give it a low rumble when generating prophecies
 - **RGB LED glow** for a dramatic effect
-
-
----
-
-## 🎬 As Seen In
-
-This project appeared in my YouTube video:  
-👉 [I Built a Cursed Magic 8 Ball That Gives Bad Advice](https://www.youtube.com/watch?v=-yIj9mfP2Uo)
 
 ---
 
