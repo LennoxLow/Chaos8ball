@@ -1,5 +1,6 @@
 # Chaos 8 Ball 🔮💀  
-A cursed Magic 8 Ball that doesn't give answers — it gives *warnings*. Built using an ESP32, vape batteries, and poor decision-making.
+A cursed Magic 8 Ball that doesn't give answers — it gives *warnings*. 
+Built using an ESP32, vape batteries, and too much hot glue.
 
 ---
 
@@ -12,7 +13,7 @@ This is a DIY project for building your own **Chaos 8 Ball** — a chaotic proph
 - "Ask your ex for closure."
 - "The end is nigh."
 
-This is not a tutorial. It's more of a vibes-based guide through a hardware hack made for laughs and mild existential fear.
+This is not a tutorial, more of a vibes-based guide for a ball made for laughs.
 
 ---
 
