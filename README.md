@@ -60,13 +60,13 @@ This is not a tutorial, more of a vibes-based guide for a ball made for laughs.
 ---
 ## 🗺️ Layout Diagram
 
-![Layout](./layout.png)
+![Layout](./badwiringdiagram.png)
 
 This diagram shows the rough wiring layout — it’s cleaner than my actual build.
 
 ## ⚠️ Real-World Wiring
 
-![Bad Wiring](./badwiringdiagram.png)
+![Bad Wiring](./layout.png)
 
 Here’s the actual wiring secured by glue, which is, let’s be honest, a war crime. It works though.
 
