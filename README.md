@@ -58,6 +58,19 @@ This is not a tutorial, more of a vibes-based guide for a ball made for laughs.
 6. Shake it.
 
 ---
+## 🗺️ Layout Diagram
+
+![Layout](./layout.png)
+
+This diagram shows the rough wiring layout — it’s cleaner than my actual build.
+
+## ⚠️ Real-World Wiring
+
+![Bad Wiring](./badwiringdiagram.png)
+
+Here’s the actual wiring secured by glue, which is, let’s be honest, a war crime. It works though.
+
+--
 
 ## 📦 Dependencies
 
