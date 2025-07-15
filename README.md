@@ -39,7 +39,7 @@ This is not a tutorial, more of a vibes-based guide for a ball made for laughs.
 | Part | Notes |
 |------|-------|
 | ESP32-C3 Mini | Small, cheap, and just enough GPIO for chaos |
-| OLED Display (SSD1306) | 128x64, I2C |
+| OLED Display (SH1106) | 128x64, I2C |
 | Shock Sensor | Detects a shake to trigger prophecy |
 | TP4056 Charging Module | For charging the vape cell |
 | 3.7V Vape Battery | Please don’t steal these from the bin like I did |
@@ -77,9 +77,10 @@ Here’s the actual wiring secured by glue, which is, let’s be honest, a war c
 
 Install these libraries in Arduino IDE:
 
-- Adafruit SSD1306
-- Adafruit GFX
+- U8g2lib.h
+- esp_sleep.h
 - Wire.h (included by default)
+- driver/gpio.h
 
 ---
 
