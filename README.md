@@ -7,9 +7,11 @@ Built using an ESP32, vape batteries, and too much hot glue.
 ## 🎬 As Seen In
 
 This project appeared in my YouTube video:  
-👉[![I Built a Cursed Magic 8 Ball That Gives Bad Advice](https://img.youtube.com/vi/-yIj9mfP2Uo/hqdefault.jpg)](https://www.youtube.com/watch?v=-yIj9mfP2Uo)
+[![I Built a Cursed Magic 8 Ball That Gives Bad Advice](https://img.youtube.com/vi/-yIj9mfP2Uo/hqdefault.jpg)](https://www.youtube.com/watch?v=-yIj9mfP2Uo)
+
+
 This project appeared in this instructable: 
-👉[![ESP32 Chaos Orb](https://content.instructables.com/FYD/W21R/MCW9FOW2/FYDW21RMCW9FOW2.gif?format=mp4)]([https://www.instructables.com/ESP32-Chaos-Orb/])
+👉[![ESP32 Chaos Orb](INSTRUCTABLES]([https://www.instructables.com/ESP32-Chaos-Orb/])
 
 
 
