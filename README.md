@@ -115,10 +115,12 @@ Here’s some cursed potential for v2 if you are up to the task:
 Have better cursed advice? Edit the hardcoded list in the sketch file!  
 If you build one, I would love to see it!
 Here are some amazing ones that have been created - I hope they give you inspiration!
-[Shizzind - Github](https://github.com/Shizzind)
+
 ![Shizzind - Github](./inspiration/Shizzind.jpeg)
-[vandoore - Instructables](https://www.instructables.com/member/vandoore/) [lektron1 - Instructables](https://www.instructables.com/member/lektron1/)
+
 ![vandoore - Instructables](./inspiration/vandoore.webp) ![lektron1 - Instructables](./inspiration/lektron1.webp)
+
+[Shizzind - Github](https://github.com/Shizzind) [vandoore - Instructables](https://www.instructables.com/member/vandoore/) [lektron1 - Instructables](https://www.instructables.com/member/lektron1/)
 
 ---
 
